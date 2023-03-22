@@ -16,7 +16,7 @@ The results on **DOTA_subsize1024_gap200_rate1.0** test-dev set are shown in the
  |yolov5s [[baidu](https://pan.baidu.com/s/1Lqw42xlSZxZn-2gNniBpmw?pwd=yolo)]    |1024  | ×     |**76.8**   |-      |-      |-      |**15.6**  | -     |**7.5**     |**17.5**    
  |yolov5n [[baidu](https://pan.baidu.com/s/1Lqw42xlSZxZn-2gNniBpmw?pwd=yolo)]    |1024  | ×     |**73.3**   |-      |-      |-      |**15.2**  | -     |**2.0**     |**5.0**
 
-
+Others trained weight files can be found [here](https://drive.google.com/drive/folders/1goQpcPloPEBvJvPBGSm7md-_Ou_zvuHj?usp=sharing)
 <details>
   <summary>Table Notes (click to expand / **点我看更多**)</summary>
 
